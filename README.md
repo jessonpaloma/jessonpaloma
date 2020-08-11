@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I am Jesson Paloma i am insterested on developing cross platform app using Electron.js.
-I am willing to learn more about Electron together with my team because i know that Native app is so powerfull application what we can use these days
+I am willing to learn more about Electron together with my team because I know that Native app is so powerful application what we can use these days
