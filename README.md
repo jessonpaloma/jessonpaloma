@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Jesson Paloma i am insterested on developing cross platform app using Electron.js.
+I am willing to learn more about Electron together with my team
