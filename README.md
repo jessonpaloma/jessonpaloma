@@ -1,6 +1,10 @@
-<h1>Howdy!, </h1>
-I am Jesson Paloma i am insterested on developing cross platform app using Electron.js.
-I am willing to learn more about Electron together with my team because I know that Native app is so powerful application what we can use these days
- 
-
-<img align="right" src="https://octodex.github.com/images/yaktocat.png" with="300px" height="300px">
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
