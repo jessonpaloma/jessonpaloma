@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I am Jesson Paloma i am insterested on developing cross platform app using Electron.js.
-I am willing to learn more about Electron together with my team
+I am willing to learn more about Electron together with my team. you can contact me at jesson.paloma@davidvenneit.com
